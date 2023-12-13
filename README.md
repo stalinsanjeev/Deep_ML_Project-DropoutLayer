@@ -1,5 +1,5 @@
 # Deep_ML_Project-
-Code for Project on Dropout layers for 576 course
+Code for Project "Exploring the Impact of Dropout Layers on Neural Network Performance" on Dropout layers for 576 course
 
 The effects of dropout layers were tested in this project with several Datasets. Expriments were done to see if adding an dropout layer would prevent overfitting. Image and text was used for classification and Regeneration.
 
